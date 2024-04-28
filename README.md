@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...MERN Stack Development
 - 💞️ I’m looking to collaborate on ...Google
-- 📫 How to reach me ...Email-lakshayrcse08@gmail.com
+- 📫 How to reach me ...Email- lakshayrcse08@gmail.com
 - 😄 Pronouns: ...Lucky
 - ⚡ Fun fact: ...I just love coding.
 
