@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechyLakshay
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...MERN Stack Development
+- 🌱 I’m currently learning ...MACHINE LEARNING and AI
 - 💞️ I’m looking to collaborate on ...Google
 - 📫 How to reach me ...Email- lakshayrcse08@gmail.com
 - 😄 Pronouns: ...Lucky
