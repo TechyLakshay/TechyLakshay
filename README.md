@@ -55,9 +55,7 @@ Currently, I’m exploring:
 ### 📬 Connect With Me
 I am always excited to collaborate with other developers and AI enthusiasts. You can reach out to me via:
 - **LinkedIn**:https://www.linkedin.com/in/lakshay-rana-7743862a3/
-- **Email**: your-email@example.com
-- **Twitter**: [@yourtwitter](https://twitter.com/yourtwitter)
-
+- **Email**: lakshayrcse08@gmail.com
 ---
 
 Thanks for stopping by my profile! Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or have any questions. Let's **build AI-powered solutions** together! 💡
