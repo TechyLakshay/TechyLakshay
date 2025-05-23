@@ -41,7 +41,7 @@ A **Flask-based server** that communicates with the **Ollama API** for **text ge
 
 ### 🌱 Learning Journey
 Currently, I’m exploring:
-- **Deep Reinforcement Learning**
+- **GAN'S**
 - **AI Ethics and Fairness**
 - **Advanced NLP** (Transformers, GPT models)
 - **AI Deployment** and **Scaling Models**
