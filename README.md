@@ -42,13 +42,13 @@ A **Flask-based server** that communicates with the **Ollama API** for **text ge
 ### 🌱 Learning Journey
 Currently, I’m exploring:
 - **GAN'S**
-- **AI Ethics and Fairness**
+- **AI Ethics and Fairnes**
 - **Advanced NLP** (Transformers, GPT models)
-- **AI Deployment** and **Scaling Models**
+- **RAG'S** 
 
 ### 📈 Stats & Achievements
 
-- 🎯 **AI Projects**: Over 10+ machine learning and AI projects
+- 🎯 **AI Projects**: Over 15+ machine learning and AI projects
 - 🚀 **GitHub Contributions**: Regular contributions to open-source projects and personal AI-driven applications
 - 🧑‍🏫 **Learning**: Continuously improving my skills by following the latest research in **Deep Learning** and **AI**
 
