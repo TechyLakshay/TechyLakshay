@@ -8,6 +8,7 @@ I specialize in the following areas:
 - **Natural Language Processing (NLP)**: Working with transformers, text summarization, sentiment analysis, and more.
 - **Deep Learning**: Leveraging frameworks like **TensorFlow**, **PyTorch**, and **Keras** to design neural networks for various tasks.
 - **Data Science**: Using Python libraries like **Pandas**, **NumPy**, and **Matplotlib** to clean, analyze, and visualize data.
+- **Generative AI**: Building various type of LLM applications , RAG's and Agents using LangChain and LangGraph.
 - **Web Development**: Building full-stack apps with **MERN** stack and integrating AI capabilities using frameworks like **Streamlit**.
 
 ### 🧑‍💻 Featured Projects
