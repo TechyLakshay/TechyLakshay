@@ -42,10 +42,10 @@ A **Flask-based server** that communicates with the **Ollama API** for **text ge
 
 ### 🌱 Learning Journey
 Currently, I’m exploring:
-- **GAN'S**
-- **AI Ethics and Fairnes**
+- **Multi Agent Systems**
+- **Agnetic AI**
 - **Advanced NLP** (Transformers, GPT models)
-- **RAG'S** 
+- **RAGS and FineTuning RAG systems** 
 
 ### 📈 Stats & Achievements
 
