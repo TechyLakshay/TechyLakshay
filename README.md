@@ -1,63 +1,76 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm a passionate **AI Enthusiast** and **AI Engineer** with a strong foundation in **machine learning, NLP, and Python**. I enjoy building intelligent systems that can solve real-world problems. You’ll find some of my best projects here, ranging from **AI models** and **data-driven applications** to **interactive web apps**.
+Hi, I’m **Lakshay Rana** — an **AI Engineer & Research Enthusiast** passionate about building **LLM-powered systems**, **AI Agents**, and **RAG-based intelligent assistants**.  
 
-### 🚀 What I Do
-I specialize in the following areas:
-- **Machine Learning (ML)**: Building predictive models and solving problems using advanced algorithms.
-- **Natural Language Processing (NLP)**: Working with transformers, text summarization, sentiment analysis, and more.
-- **Deep Learning**: Leveraging frameworks like **TensorFlow**, **PyTorch**, and **Keras** to design neural networks for various tasks.
-- **Data Science**: Using Python libraries like **Pandas**, **NumPy**, and **Matplotlib** to clean, analyze, and visualize data.
-- **Generative AI**: Building various type of LLM applications , RAG's and Agents using LangChain and LangGraph.
-- **Web Development**: Building full-stack apps with **MERN** stack and integrating AI capabilities using frameworks like **Streamlit**.
+I love creating solutions that bridge **real-world problems** with **AI-driven automation** — from NLP systems and chatbots to end-to-end deployable AI products.
 
-### 🧑‍💻 Featured Projects
-
-Here are a few of my **highlighted projects** that I’ve worked on:
-
-#### 1. [**NLP Multi-Tool with Transformers**](https://github.com/yourusername/nlp-multi-tool)
-A **Streamlit app** that integrates multiple **NLP tasks** such as:
-- **Sentiment Analysis**
-- **Named Entity Recognition (NER)**
-- **Text Summarization**
-- **Translation (EN→FR)**
-- **Question Answering**
-All powered by **Hugging Face Transformers**, this project showcases a wide range of **AI capabilities**.
-
-#### 2. [**PHISHGURD: Phishing URL Detection System**](https://github.com/yourusername/phishgurd)
-A **machine learning-based project** designed to detect **phishing URLs** in emails using **Random Forest** and **XGBoost**. Achieved **95%+ accuracy**. This project emphasizes **AI for security** and showcases model deployment and optimization.
-
-#### 3. [**Flask-AI Client-Server for Text Generation**](https://github.com/yourusername/flask-ai-client-server)
-A **Flask-based server** that communicates with the **Ollama API** for **text generation** using **LLama3**. The client sends prompts to the server, and the server returns AI-generated responses. This project is a hands-on example of integrating **AI models** into a **client-server architecture**.
-
-### 🛠️ Technologies & Tools I Use
-- **Programming Languages**: Python, JavaScript (Node.js)
-- **Libraries & Frameworks**: 
-  - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, XGBoost
-  - **NLP**: Hugging Face Transformers, NLTK
-  - **Web Development**: Flask, Streamlit, MERN stack (MongoDB, Express, React, Node.js)
-  - **Databases**: MongoDB, MySQL, PostgreSQL
-  - **Version Control**: Git, GitHub
-- **Tools**: Docker, VSCode, Jupyter Notebook, Google Colab
-
-### 🌱 Learning Journey
-Currently, I’m exploring:
-- **Multi Agent Systems**
-- **Agnetic AI**
-- **Advanced NLP** (Transformers, GPT models)
-- **RAGS and FineTuning RAG systems** 
-
-### 📈 Stats & Achievements
-
-- 🎯 **AI Projects**: Over 15+ machine learning and AI projects
-- 🚀 **GitHub Contributions**: Regular contributions to open-source projects and personal AI-driven applications
-- 🧑‍🏫 **Learning**: Continuously improving my skills by following the latest research in **Deep Learning** and **AI**
-
-### 📬 Connect With Me
-I am always excited to collaborate with other developers and AI enthusiasts. You can reach out to me via:
-- **LinkedIn**:https://www.linkedin.com/in/lakshay-rana-7743862a3/
-- **Email**: lakshayrcse08@gmail.com
 ---
 
-Thanks for stopping by my profile! Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or have any questions. Let's **build AI-powered solutions** together! 💡
+## 🚀 What I Do
 
+💡 **Core Focus Areas**
+- **Retrieval-Augmented Generation (RAG):** Building context-aware AI assistants using LangChain, FAISS, and LLMs.  
+- **AI Agents & Multi-Agent Systems:** Designing intelligent, tool-using agents with LangChain & LangGraph.  
+- **Generative AI Applications:** Creating custom LLM-powered apps and deployable products.  
+- **Natural Language Processing (NLP):** Text classification, summarization, Q&A, and prompt engineering.  
+- **Deep Learning:** CNNs, Transformers, and Fine-tuning models for vision & language tasks.  
+- **Web + AI Integration:** Deploying AI systems using Streamlit, Flask, and MERN stack integrations.  
+
+---
+
+## 🧠 Featured Projects
+
+### 1. AI Legal Document Simplifier (Major Project)
+A LangChain-based RAG system that simplifies legal documents, allowing users to query and summarize lengthy texts intelligently.  
+
+### 2. AI Agentic Framework with Memory 🧩
+Built multi-agent systems capable of reasoning, memory retention, and dynamic tool usage using LangGraph & LangChain.  
+
+### 3. PhishGuard – Phishing URL Detection
+A machine learning-based cybersecurity system detecting malicious URLs using Random Forest & XGBoost (95%+ accuracy).  
+
+### 4. AI Chat Assistant (Flask + Ollama)
+Custom Flask client-server app integrating **LLaMA3** via **Ollama API**, enabling real-time prompt-response communication.  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages:**  
+Python, JavaScript (Node.js)
+
+**Frameworks & Libraries:**  
+- ML/DL: TensorFlow, PyTorch, Scikit-learn, XGBoost  
+- NLP: Hugging Face Transformers, LangChain, LangGraph  
+- Web: Streamlit, Flask, MERN (MongoDB, Express, React, Node.js)  
+
+**Databases:**  
+FAISS, MongoDB, MySQL  
+
+**Tools:**  
+Docker, Git, VSCode, Jupyter, Google Colab  
+
+---
+
+## 🌱 Currently Learning
+- Multi-Agent Architectures & Coordination  
+- Advanced RAG System Design  
+- Fine-tuning & Customizing LLMs  
+- Prompt Optimization & Tool-Integrated AI Systems  
+
+---
+
+## 📊 Achievements
+- 🧠 **15+ End-to-End AI Projects** (ML, NLP, Agents, RAGs)  
+- 💬 **Hands-on with LangChain & LangGraph** for real-world use cases  
+- 🚀 **Active Open-Source Contributor & Continuous Learner**
+
+---
+
+## 📬 Connect With Me
+Let’s collaborate or talk AI!  
+
+🔗 **LinkedIn:** [linkedin.com/in/lakshay-rana-7743862a3](https://www.linkedin.com/in/lakshay-rana-7743862a3/)  
+📧 **Email:** [lakshayrcse08@gmail.com](mailto:lakshayrcse08@gmail.com)
+
+---
