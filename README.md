@@ -29,8 +29,9 @@ Built multi-agent systems capable of reasoning, memory retention, and dynamic to
 ### 3. PhishGuard – Phishing URL Detection
 A machine learning-based cybersecurity system detecting malicious URLs using Random Forest & XGBoost (95%+ accuracy).  
 
-### 4. AI Chat Assistant (Flask + Ollama)
-Custom Flask client-server app integrating **LLaMA3** via **Ollama API**, enabling real-time prompt-response communication.  
+### 4. OmniClaw - AI Chat Assistant 
+Developed a Multi-agentic intellugence system, it has access of various exciting tools and features.
+
 
 ---
 
