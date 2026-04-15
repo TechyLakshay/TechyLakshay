@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile :D
+#  Welcome to My GitHub Profile :D
 
 Hi, I’m **Lakshay Rana** — an **AI Engineer & Research Enthusiast** passionate about building **LLM-powered systems**, **AI Agents**, and **RAG-based intelligent assistants**.  
 
