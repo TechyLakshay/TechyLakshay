@@ -1,6 +1,6 @@
 #  Welcome to My GitHub Profile :D
 
-Hi, I’m **Lakshay Rana** — an **AI Engineer & Research Enthusiast** passionate about building **LLM-powered systems**, **AI Agents**, and **RAG-based intelligent assistants**.  
+Hi, I’m **Lakshay Rana** — an **AI Engineer & Research Enthusiast** passionate about building **LLM-powered systems**, **AI Agents**, and **Powerfull AI Chatbots**.  
 
 I love creating solutions that bridge **real-world problems** with **AI-driven automation** — from NLP systems and chatbots to end-to-end deployable AI products.
 
