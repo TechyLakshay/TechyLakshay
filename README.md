@@ -72,6 +72,6 @@ Docker, Git, VSCode, Jupyter, Google Colab
 Let’s collaborate or talk AI!  
 
 🔗 **LinkedIn:** [linkedin.com/in/lakshay-rana-7743862a3](https://www.linkedin.com/in/lakshay-rana-7743862a3/)  
-📧 **Email:** [lakshayrcse08@gmail.com](mailto:lakshayrcse08@gmail.com)
+📧 **Email:** [lakshayrcse08@gmail.com](mailto:lakshayrcse08@gmail.com)               -----
 
 ---
