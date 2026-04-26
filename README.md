@@ -4,7 +4,7 @@ Hi, I’m **Lakshay Rana** — an **AI Engineer & Research Enthusiast** passiona
 
 I love find problems, creating solutions that bridge **real-world problems** with **AI-driven automation** — from NLP systems and chatbots to end-to-end deployable AI products.
 
----
+----
 
 ## 🚀 What I Do
 
@@ -14,9 +14,9 @@ I love find problems, creating solutions that bridge **real-world problems** wit
 - **Generative AI Applications:** Creating custom LLM-powered apps and deployable products.  
 - **Natural Language Processing (NLP):** Text classification, summarization, Q&A, and prompt engineering.  
 - **Deep Learning:** CNNs, Transformers, and Fine-tuning models for vision & language tasks.  
-- **Web + AI Integration:** Deploying AI systems using Streamlit, Flask, and MERN stack integrations.  
+- **Web + AI Integration:** Deploying AI systems using Streamlit, Flask, and MERN stack integrations.
 
----
+----
 
 ## 🧠 Featured Projects
 
