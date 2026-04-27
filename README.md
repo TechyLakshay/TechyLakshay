@@ -62,7 +62,7 @@ Docker, Git, VSCode, Jupyter, Google Colab
 ---
 
 ## 📊 Achievements
-- 🧠 **15+ End-to-End AI Projects** (ML, NLP, Agents, RAGs)  
+- 🧠 **15+ End-to-End AI Projects** (ML, NLP, Agents, RAGs)...
 - 💬 **Hands-on with LangChain & LangGraph** for real-world use cases  
 - 🚀 **Active Open-Source Contributor & Continuous Learner**
 
