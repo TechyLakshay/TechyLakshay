@@ -13,14 +13,14 @@ I love find problems, creating solutions that bridge **real-world problems** wit
 - **AI Agents & Multi-Agent Systems:** Designing intelligent, tool-using agents with LangChain & LangGraph.  
 - **Generative AI Applications:** Creating custom LLM-powered apps and deployable products.  
 - **Natural Language Processing (NLP):** Text classification, summarization, Q&A, and prompt engineering.  
-- **Deep Learning:** CNNs, Transformers, and Fine-tuning models for vision & language tasks.  
+- **Deep Learning:** CNNs, Transformers, and Fine-tuning models for vision & language tasks.
 - **Web + AI Integration:** Deploying AI systems using Streamlit, Flask, and MERN stack integrations.
 
 ----
 
 ## 🧠 Featured Projects
 
-### 1. AI Legal Document Simplifier (Major Project)
+### 1. AI Legal Document Simplifier (Major Project)..
 A LangChain-based RAG system that simplifies legal documents, allowing users to query and summarize lengthy texts intelligently.  
 
 ### 2. AI Agentic Framework with Memory 🧩
