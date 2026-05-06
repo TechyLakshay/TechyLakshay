@@ -6,9 +6,9 @@ I love find problems, creating solutions that bridge **real-world problems** wit
 
 ----
 
-## 🚀 What I Do
+## 🚀 What I Do 
 
-💡 **Core Focus Areas**
+💡 **Core Focus Areas i focuses on**
 - **Retrieval-Augmented Generation (RAG):** Building context-aware AI assistants using LangChain, FAISS, and LLMs.  
 - **AI Agents & Multi-Agent Systems:** Designing intelligent, tool-using agents with LangChain & LangGraph.  
 - **Generative AI Applications:** Creating custom LLM-powered apps and deployable products.  
