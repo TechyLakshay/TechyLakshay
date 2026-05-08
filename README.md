@@ -38,7 +38,7 @@ Developed a Multi-agentic intellugence system, it has access of various exciting
 ## 🛠️ Tech Stack & Tools
 
 **Languages:**  
-Python, JavaScript (Node.js)
+Python
 
 **Frameworks & Libraries:**  
 - ML/DL: TensorFlow, PyTorch, Scikit-learn, XGBoost  
