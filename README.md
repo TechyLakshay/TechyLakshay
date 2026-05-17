@@ -43,7 +43,7 @@ Python
 **Frameworks & Libraries:**  
 - ML/DL: TensorFlow, PyTorch, Scikit-learn, XGBoost  
 - NLP: Hugging Face Transformers, LangChain, LangGraph  
-- Web: Streamlit, Flask, MERN (MongoDB, Express, React, Node.js)  
+- Web: FastAPI, Streamlit
 
 **Databases:**  
 FAISS, MongoDB, MySQL  
