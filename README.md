@@ -19,7 +19,7 @@ I love find problems, creating best solutions that bridge **real-world problems*
 
 ----
 
-## 🧠 Featured Projectss
+## 🧠 Featured Projects
 
 ### 1. AI Legal Document Simplifier (Major Project)..
 A LangChain-based RAG system that simplifies legal documents, allowing users to query and summarize lengthy texts intelligently.  
