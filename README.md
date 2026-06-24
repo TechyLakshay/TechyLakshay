@@ -4,7 +4,7 @@
 Hi, I’m **Lakshay Rana** — an **AI Engineer & Research Enthusiast** passionate about building **LLM-powered systems**, **AI Agents**, and **Powerfull AI Chatbots**... 
 
 I love find problems, creating best solutions that bridge **real-world problems** with **AI-driven automation** — from NLP systems and chatbots to end-to-end deployable AI products, building CI/CD pipelines.
-c c x
+c c x, wdjbndw
 ----
 
 ## 🚀 What I Do 
