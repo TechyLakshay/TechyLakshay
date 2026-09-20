@@ -1,6 +1,6 @@
 # Lakshay Rana
 
-**AI Engineer** — I build LLM-powered systems: RAG pipelines, multi-agent frameworks, and deployable AI products.
+**AI Engineer** — I build LLM-powered systems: RAG pipelines, multi-agent frameworks, and deployable AI products
 
 I focus on **AI security and agentic systems** — building tools that make LLM applications more reliable, interpretable, and safe to deploy.
 
