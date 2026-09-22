@@ -30,7 +30,7 @@ Shipping end-to-end LLM apps from prototype to deployable product.
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost
 **NLP/LLM:** Hugging Face Transformers, LangChain, LangGraph
 **Vector/DB:** FAISS, MongoDB, MySQL
-**Deploy:** FastAPI, Streamlit, Docker, Git
+**Deploy:** FastAPI, Streamlit, Docker, Git, AWS
 
 ---
 
