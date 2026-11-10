@@ -5,7 +5,7 @@ I focus on **AI security and agentic systems** — building tools that make LLM 
 
 ---
 
-## 🔍 What I'm Building
+## 🔍 What I'm Building :)
 
 **AI Security & Detection**
 Building ML systems that detect malicious inputs and adversarial behavior in AI applications.
